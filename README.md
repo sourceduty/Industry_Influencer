@@ -17,90 +17,86 @@ The process is structured to guide users through a step-by-step series of questi
 Top Fitness Industry Influencers 2024
 
 1. Instagram Influencers
-
--Kayla Itsines (@kayla_itsines)
--Followers: 15M+
--Known for: BBG workout program, fitness coaching, motivational content.
+   
+   - Kayla Itsines (@kayla_itsines)
+     - Followers: 15M+
+     - Known for: BBG workout program, fitness coaching, motivational content.
   
--Simeon Panda (@simeonpanda)
--Followers: 8M+
--Known for: Bodybuilding, workout inspiration, fitness motivation.
+   - Simeon Panda (@simeonpanda)
+     - Followers: 8M+
+     - Known for: Bodybuilding, workout inspiration, fitness motivation.
 
--Jen Selter (@jenselter)
--Followers: 13M+
--Known for: Fitness modeling, workout tips, healthy lifestyle content.
+   - Jen Selter (@jenselter)
+     - Followers: 13M+
+     - Known for: Fitness modeling, workout tips, healthy lifestyle content.
 
--Massy Arias (@massy.arias)
--Followers: 2.7M+
--Known for: Fitness training, wellness coaching, positive body image advocacy.
+   - Massy Arias (@massy.arias)
+     - Followers: 2.7M+
+     - Known for: Fitness training, wellness coaching, positive body image advocacy.
 
+3. YouTube Influencers
+   
+   - Jeff Nippard
+     - Subscribers: 3M+
+     - Known for: Science-based workout routines, fitness education, muscle building tips.
 
-2. YouTube Influencers
+   - Chloe Ting
+     - Subscribers: 25M+
+     - Known for: Free workout challenges, home workout routines, fitness transformation videos.
 
--Jeff Nippard
--Subscribers: 3M+
--Known for: Science-based workout routines, fitness education, muscle building tips.
+   - Athlean-X (Jeff Cavaliere)
+     - Subscribers: 14M+
+     - Known for: Strength training tips, injury prevention, athlete-focused workouts.
 
--Chloe Ting
--Subscribers: 25M+
--Known for: Free workout challenges, home workout routines, fitness transformation videos.
+   - Pamela Reif
+     - Subscribers: 10M+
+     - Known for: Full-body workout routines, healthy recipes, lifestyle content.
 
--Athlean-X (Jeff Cavaliere)
--Subscribers: 14M+
--Known for: Strength training tips, injury prevention, athlete-focused workouts.
+5. TikTok Influencers
+   
+   - Demi Bagby (@demibagby)
+     - Followers: 14M+
+     - Known for: Calisthenics, acrobatics, motivational fitness content.
 
--Pamela Reif
--Subscribers: 10M+
--Known for: Full-body workout routines, healthy recipes, lifestyle content.
+   - Noelle Leyva (@noelleleyva)
+     - Followers: 5M+
+     - Known for: Fitness challenges, workout inspiration, lifestyle content.
 
+   - Lilly Sabri (@lillysabri)
+     - Followers: 1M+
+     - Known for: Home workouts, quick fitness tips, engaging fitness challenges.
 
-3. TikTok Influencers
+   - Jordan Yeoh (@jordanyeohfitness)
+     - Followers: 3M+
+     - Known for: High-intensity interval training (HIIT), bodyweight exercises, fitness motivation.
 
--Demi Bagby (@demibagby)
--Followers: 14M+
--Known for: Calisthenics, acrobatics, motivational fitness content.
+7. Bloggers/Website Owners
+   
+   - Mark Sisson (Mark's Daily Apple)
+     - Focus: Primal living, paleo diet, fitness routines, health and wellness advice.
 
--Noelle Leyva (@noelleleyva)
--Followers: 5M+
--Known for: Fitness challenges, workout inspiration, lifestyle content.
+   - Cassey Ho (Blogilates)
+     - Focus: Pilates, fitness challenges, workout plans, body positivity.
 
--Lilly Sabri (@lillysabri)
--Followers: 1M+
--Known for: Home workouts, quick fitness tips, engaging fitness challenges.
+   - Steve Kamb (Nerd Fitness)
+     - Focus: Fitness advice for beginners, workout routines, health tips, geek culture.
 
--Jordan Yeoh (@jordanyeohfitness)
--Followers: 3M+
--Known for: High-intensity interval training (HIIT), bodyweight exercises, fitness motivation.
+   - Ben Greenfield (Ben Greenfield Fitness)
+     - Focus: Biohacking, endurance training, holistic health and fitness.
 
+9. Podcasters
+    
+   - Rich Roll (The Rich Roll Podcast)
+     - Focus: Fitness, plant-based nutrition, personal development, interviews with health and fitness experts.
 
-4. Bloggers/Website Owners
+   - Shaun T (Trust and Believe Podcast)
+     - Focus: Fitness motivation, mental health, overcoming obstacles, workout advice.
 
--Mark Sisson (Mark's Daily Apple)
--Focus: Primal living, paleo diet, fitness routines, health and wellness advice.
+   - Jillian Michaels (The Jillian Michaels Show)
+     - Focus: Fitness tips, health advice, nutrition, lifestyle improvement.
 
--Cassey Ho (Blogilates)
--Focus: Pilates, fitness challenges, workout plans, body positivity.
-
--Steve Kamb (Nerd Fitness)
--Focus: Fitness advice for beginners, workout routines, health tips, geek culture.
-
--Ben Greenfield (Ben Greenfield Fitness)
--Focus: Biohacking, endurance training, holistic health and fitness.
-
-
-5. Podcasters
-
--Rich Roll (The Rich Roll Podcast)
--Focus: Fitness, plant-based nutrition, personal development, interviews with health and fitness experts.
-
--Shaun T (Trust and Believe Podcast)
--Focus: Fitness motivation, mental health, overcoming obstacles, workout advice.
-
--Jillian Michaels (The Jillian Michaels Show)
--Focus: Fitness tips, health advice, nutrition, lifestyle improvement.
-
--Katy Bowman (Move Your DNA)
--Focus: Biomechanics, natural movement, fitness education, holistic wellness.
+   - Katy Bowman (Move Your DNA)
+     - Focus: Biomechanics, natural movement, fitness education, holistic wellness.
 
 <br>
 </details>
